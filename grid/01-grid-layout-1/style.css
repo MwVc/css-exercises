@@ -11,8 +11,8 @@ html {
   box-sizing: border-box;
   display: inline-grid;
   gap: 15px;
-  grid-template-columns: 300px 900px;
-  grid-template-rows: 70px 70px 350px 70px;
+  grid-template-columns: 18.75rem 56.25;
+  grid-template-rows: 4.375 4.375 21.875 4.375;
   grid-template-areas:
     "header header"
     "sidebar nav"
